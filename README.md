@@ -11,3 +11,5 @@ Fuel the software with matcha latte for better efficiency.
 Needs to be handled with care and compassion.
 
 Upload cute videos with cats and dogs to keep your program happy.
+
+Has Do Not Disturb function (important!)
