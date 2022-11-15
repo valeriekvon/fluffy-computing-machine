@@ -2,7 +2,7 @@
 # Hello!
 This software was created in Toronto, Canada, 2003 and developed in Russia. 
 
-The intention and functionality of this software is not identified yet, still in progress.
+The intention and functionality of this software is **not identified yet**, still in progress.
 
 It tends to have glitches and overload a computer with information. So don’t be surprised if your computer will randomly switch off.
 
