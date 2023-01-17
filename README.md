@@ -12,4 +12,4 @@ The intention and functionality of this software is **not identified yet**, stil
 
 - Upload cute videos with cats and dogs to keep your program happy.
 
-- Has Do Not Disturb function ==(important!)==
+- Has Do Not Disturb function *(important)*
